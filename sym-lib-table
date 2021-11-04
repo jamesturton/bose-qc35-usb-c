@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "502426-2030")(type "KiCad")(uri "${KIPRJMOD}/custom_parts/502426-2030.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS25200")(type "KiCad")(uri "${KIPRJMOD}/custom_parts/TPS25200.kicad_sym")(options "")(descr ""))
+)
