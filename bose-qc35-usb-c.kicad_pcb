@@ -1,4 +1,4 @@
-(kicad_pcb (version 20210925) (generator pcbnew)
+(kicad_pcb (version 20211014) (generator pcbnew)
 
   (general
     (thickness 1.6)
@@ -1776,12 +1776,12 @@
     )
   )
 
-  (gr_arc (start 82.684195 82.216599) (end 86.040701 59.081934) (angle -61.79410705) (layer "Edge.Cuts") (width 0.000159) (tstamp 05471dda-9ca2-42b8-9a6a-bd311b70969b))
-  (gr_arc (start 66.208024 73.856368) (end 65.878193 73.60021) (angle -118.2099629) (layer "Edge.Cuts") (width 0.000159) (tstamp 0dc2eaf3-b872-4b5d-a9e2-bbbb66610d1d))
-  (gr_arc (start 90.401727 92.649426) (end 81.000089 66.966304) (angle -29.3191517) (layer "Edge.Cuts") (width 0.000159) (tstamp 0eb3514a-a94c-4925-827b-a7d88228eefc))
+  (gr_arc (start 63.883083 68.324261) (mid 73.6848 60.641388) (end 86.040701 59.081934) (layer "Edge.Cuts") (width 0.000159) (tstamp 05471dda-9ca2-42b8-9a6a-bd311b70969b))
+  (gr_arc (start 66.138205 74.268109) (mid 65.818855 74.007871) (end 65.878193 73.60021) (layer "Edge.Cuts") (width 0.000159) (tstamp 0dc2eaf3-b872-4b5d-a9e2-bbbb66610d1d))
+  (gr_arc (start 69.628031 74.859904) (mid 74.806378 70.181702) (end 81.000089 66.966304) (layer "Edge.Cuts") (width 0.000159) (tstamp 0eb3514a-a94c-4925-827b-a7d88228eefc))
   (gr_line (start 69.628033 74.859908) (end 66.138201 74.268109) (layer "Edge.Cuts") (width 0.000159) (tstamp 40687d38-88b7-4be3-8664-381bd0de7582))
   (gr_line (start 86.040701 59.081934) (end 85.983941 60.877098) (layer "Edge.Cuts") (width 0.000159) (tstamp 42e78d1f-ff0d-49e0-8eb5-aa66330158a7))
-  (gr_arc (start 64.250421 72.33601) (end 65.878193 73.60021) (angle -73.83729161) (layer "Edge.Cuts") (width 0.000159) (tstamp 6520eb13-5c5c-4e87-8050-ad8a9afddf58))
+  (gr_arc (start 65.91777 71.124486) (mid 66.311187 72.368954) (end 65.878193 73.60021) (layer "Edge.Cuts") (width 0.000159) (tstamp 6520eb13-5c5c-4e87-8050-ad8a9afddf58))
   (gr_line (start 87.895775 64.442049) (end 81.000089 66.966304) (layer "Edge.Cuts") (width 0.000159) (tstamp b80705c1-89b9-4f6c-ab37-b78c461d97ba))
   (gr_line (start 65.917772 71.124486) (end 63.883084 68.324265) (layer "Edge.Cuts") (width 0.000159) (tstamp c182b323-6377-4bd9-8e5c-6df024edf97d))
   (gr_line (start 85.983941 60.877098) (end 87.895535 61.482758) (layer "Edge.Cuts") (width 0.000159) (tstamp e1072f72-7996-4494-be75-a5fbaf187b44))

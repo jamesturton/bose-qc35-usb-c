@@ -355,7 +355,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "bose-usb-c.kicad_pro",
+    "filename": "bose-qc35-usb-c.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -390,7 +390,7 @@
       "netlist": "bose-usb-c.net",
       "specctra_dsn": "",
       "step": "",
-      "vrml": ""
+      "vrml": "bose-qc35-usb-c.wrl"
     },
     "page_layout_descr_file": ""
   },
