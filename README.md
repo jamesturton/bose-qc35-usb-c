@@ -2,7 +2,8 @@
 
 This is a repository holding details of how to modify the Bose QC35 headphones
 to support USB charging/firmware update over USB-C, rather than the archaic
-micro-USB connector.
+micro-USB connector. This mod works with both QC35 I and QC35 II versions of the
+headphones.
 
 ## Disclaimer
 
