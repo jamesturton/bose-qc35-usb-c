@@ -18,6 +18,10 @@ information provided in this repository.
 
 Good luck!
 
+## Quick start
+
+### [View schematic and layout online using KiCanvas!](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fjamesturton%2Fbose-qc35-usb-c)
+
 ## How to get started
 
 You will be replacing the USB daughter board with a new one featuring a USB-C
