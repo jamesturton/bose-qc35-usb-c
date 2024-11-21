@@ -2603,7 +2603,7 @@
     (property "Reference" "J3" (at 267.462 45.9232 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "51281-0594" (at 267.462 48.2346 0)
+    (property "Value" "51281-0598" (at 267.462 48.2346 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Connector_FFC-FPC:TE_0-1734839-5_1x05-1MP_P0.5mm_Horizontal" (at 265.43 46.99 0)

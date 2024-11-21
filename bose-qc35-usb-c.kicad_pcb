@@ -249,7 +249,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 452429de-72ab-449f-b8c3-d248aea2521a)
     )
-    (fp_text value "51281-0594" (at 0 2.05 90) (layer "Dwgs.User")
+    (fp_text value "51281-0598" (at 0 2.05 90) (layer "Dwgs.User")
         (effects (font (size 0.5 0.5) (thickness 0.08)))
       (tstamp dcfa14b5-60b3-4c9a-a338-9d0564b0e8ac)
     )
